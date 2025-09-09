@@ -1,9 +1,16 @@
-# Mayuri-Deshmukh  
+  
 <img src="https://yourimageurl.com/profile-photo.jpg" width="150" align="left">
 
 # Hi, I'm Mayuri Deshmukh 👋
 
 🚀 Passionate about learning web technologies and building scalable applications.
+
+---
+### 🧠 Learning Goals
+
+- Master backend development using **Java** for full-stack applications.  
+- Improve UI/UX design and create seamless interfaces.  
+- Learn API development, database integration, and best coding practices.
 
 ---
 
@@ -38,11 +45,4 @@
 
 ---
 
-### 🧠 Learning Goals
-
-- Master backend development using **Java** for full-stack applications.  
-- Improve UI/UX design and create seamless interfaces.  
-- Learn API development, database integration, and best coding practices.
-
----
 
